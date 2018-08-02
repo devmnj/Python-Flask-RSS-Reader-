@@ -1,7 +1,4 @@
-README
-This README would normally document whatever steps are necessary to get your application up and running.
-
-What is this repository for?
+ 
 Quick summary
 
 This is a Python Flask Project which demonstrate feedparser library. The IDE I am using is Pycharm.
